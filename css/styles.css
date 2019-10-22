@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Lato:300|Libre+Baskerville&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Lato:300|Playfair+Display&display=swap");
 
 * {
     box-sizing: border-box;
@@ -13,7 +13,8 @@ body {
 }
 
 h1 {
-    font-family: 'Libre Baskerville', serif;
+    font-family: 'Playfair Display', serif;
+    font-weight: 400;
 }
 
 .betony:first-letter {
