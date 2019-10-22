@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css?family=Lato:300|Libre+Baskerville&display=swap");
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+    font-family: "Lato", sans-serif;
+    font-weight: 300;
+}
+
+h1 {
+    font-family: 'Libre Baskerville', serif;
+}
+
+.betony:first-letter {
+    font-size: 70px;
+    font-family: serif;
+    float: left;
+    padding: 0 25px 0px 0;
+    line-height: .8;
+}
+
+.article {
+    margin: 130px 100px;
+    padding: 140px 120px 120px;
+    box-shadow: 0px 0px 30px 30px rgb(242, 242, 242);
+}
+
+.btn {
+    font-family: 'Lato', sans-serif;
+    letter-spacing: 6px;
+    background-color: #fff;
+    border: 1px solid orangered;
+    padding: 10px 50px;
+    transition: all .25s ease-out;
+}
+
+button:hover,
+button:focus,
+button:active {
+    opacity: .8;
+    background-color: #000;
+}
+
+.btn {
+    color: orangered;
+    text-decoration: none;
+}
+
+/* Next task - work with quote */
+/* Last tast - crush test (lorems) */
