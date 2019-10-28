@@ -19,23 +19,14 @@ h1 {
     color: black;
 }
 
-/*p:first-child:first::first-letter {
+p:first-child:first-letter {    
     font-size: 70px;
     font-family: serif;
     float: left;
     padding: 0 25px 0px 0;
     line-height: .8;
     color: black;
-}*/
-
-/*p:first-child::first-letter {    
-    font-size: 70px;
-    font-family: serif;
-    float: left;
-    padding: 0 25px 0px 0;
-    line-height: .8;
-    color: black;
-}*/
+}
 
 blockquote {
     padding: 0 0 42px 0;
